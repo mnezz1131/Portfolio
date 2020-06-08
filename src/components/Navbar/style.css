@@ -1,0 +1,25 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+
+}
+.navbar{
+  /* background-color: #C8BADC; */
+  background-color: #D1CFDC;
+  border-top: solid;
+  border-bottom:  solid;
+  
+} 
+
+
+.navbar-brand{
+  font-size: 25px;
+  font-weight: 700;
+}
+
+
+
+.navRight{
+  font-size: 25px;
+  font-weight: 700;
+  justify-content: right;
+}
