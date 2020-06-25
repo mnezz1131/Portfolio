@@ -11,7 +11,9 @@ function Card(props) {
               <ul>
                   <li><strong>Project: </strong>{props.name} </li>
                   <li><strong> <a href = {props.gitHub} target="_blank" rel="noopener noreferrer">GitHub Link</a> </strong> </li>
-                  <li><strong> <a href = {props.deploy}target="_blank" rel="noopener noreferrer">Website Link </a></strong>  </li>                
+                  <li><strong> <a href = {props.deploy}target="_blank" rel="noopener noreferrer">Website Link </a></strong>  </li>      
+                  <li><strong>Tools:</strong>{props.tools}</li>         
+                  <li><strong>Summary:</strong>{props.summary}</li> 
               </ul>
           </div>
       </div >

@@ -21,6 +21,8 @@ class Portfolio extends React.Component {
                 id={project.id}
                 key={project.id}
                 name={project.name}
+                tools={project.tools}
+                summary={project.summary}
                 image={project.image}
                 gitHub={project.gitHub}
                 deploy={project.deploy}

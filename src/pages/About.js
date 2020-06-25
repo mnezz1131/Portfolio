@@ -16,7 +16,7 @@ const h2 = {
   fontFamily: "Cinzel Decorative",
   fontSize: "45px",
   fontWeight: "700",
-  textShadow: "-1px 2px 0 #500, 1px 2px 0 #600, 1px -2px 0 #400,  -1px -1px 0 #100" 
+  textShadow: "-1px 1px 0 #100, 1px 1px 0 #600, 1px -1px 0 #400,  -1px -1px 0 #100" 
  }
 
  const contain ={
