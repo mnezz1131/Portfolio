@@ -1,39 +1,30 @@
 [
     {
       "id": 1,
+      "name": "Vinyl Vault",
+      "summary": " Vinyl Vault is an application created for the avid vinyl enthusiast to catalog their precious record collection. Use the app to peruse your vinyl collection, add albums to your collection as you acquire them, edit your previous purchases and delete the albums you no longer own. The goal is to streamline access to maintaining your record collection information so you can spend more time listening and enjoying the collection.",
+      "tools":  " React, Ruby, Rails, Postgresql Github",
+      "image": "https://i.imgur.com/XFzgMIo.png",
+      "gitHub": "https://github.com/mnezz1131/Vinyl-Vault",
+      "deploy": " https://vinyl-vault.netlify.app/"
+    },
+    {
+      "id": 2,
+      "name": "Tether",
+      "summary" :" Tether is an application dedicated to high-performance, luxury, electric sports cars or supercars. Browse the site to see beautiful vehicles that are both high-tech and good for the environment. Our goal is to streamline access to purchasing environmentally-friendly supercars.",
+      "tools":  " React, Node, Express, MongoDB, Github",
+      "image": "https://i.imgur.com/IEiZVuy.png",
+      "gitHub": "https://github.com/DarrylFalls/Tether",
+      "deploy": "https://tether-supercars.netlify.app"
+    },
+    {
+      "id": 3,
       "name": "Drink Are On Us",
       "summary": " An App exploring building your own drinks, breweries across America and wine scores and what they mean.",
       "tools":  " React, Node, Mongo, Express, Github",
       "image": "https://i.imgur.com/ra6y0pw.png",
       "gitHub": "https://github.com/mnezz1131/Drinks-Are-On-Us",
       "deploy": " https://drinks-on-us.herokuapp.com/"
-    },
-    {
-      "id": 2,
-      "name": "Guitar Gods",
-      "summary" :" An app for learning more about famous guitarists! Based on the Rolling Stone survey, you can see where they land and find out more about them and their music!",
-      "tools":  " React, Node, MySql, Express, Handlebars Github",
-      "image": "https://i.imgur.com/jdmrcmi.png",
-      "gitHub": "https://github.com/mnezz1131/Guitar-Gods",
-      "deploy": "https://ggods.herokuapp.com/"
-    },
-    {
-      "id": 3,
-      "name": "Mike's Movie Search",
-      "summary": " An app for finding where you favorite movies and Tv shows are streaming.",
-      "tool": " Javascript, Jquery, HTML, CSS",
-      "image": "https://i.imgur.com/CoMSlp2.png",
-      "gitHub": "https://github.com/mnezz1131/Mikes-Movie-Project-Beta",
-      "test": "",
-      "deploy": "https://mnezz1131.github.io/Mikes-Movie-Project-Beta/"
-    },
-    {
-      "id": 4,
-      "name": "Guitar World Scraper",
-      "summary": " A web scraper App for getting guitar lessons for GW.",
-      "tools": " React, Node, Mongo, Express, Github",
-      "image": "https://i.imgur.com/UTIvd0D.png",
-      "gitHub": "https://github.com/mnezz1131/SCRAPER",
-      "deploy": "https://ancient-gorge-78749.herokuapp.com/"
     }
+   
 ]
